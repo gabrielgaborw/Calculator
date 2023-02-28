@@ -10,4 +10,4 @@ This is a React web application with all the functionalities of a normal calcula
 
 3. Run the **`npm start`** command.
 
-4. Done!
+4. Done!( Alternatively you can go to [HERE](https://gabrielgaborw.github.io/Calculator) to see the app)
